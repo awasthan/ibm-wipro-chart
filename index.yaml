@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  ibm-ace-dashboard-icp4i-prod:
+  - appVersion: 11.0.0.6.1
+    created: 2020-03-02T23:00:27.053854176-08:00
+    description: IBM App Connect Enterprise dashboard
+    digest: 77d8a8ea4a5c3d39fbeafc6d0188f62ab7fd6381f4f25002b2dbff68929d9d3b
+    icon: https://raw.githubusercontent.com/ot4i/ace-docker/master/app_connect_light_256x256.png
+    keywords:
+    - amd64
+    - ICPRHOCP
+    - ICPROKS
+    - ACE
+    - Integration
+    - IIB
+    - WMB
+    - MQSI
+    - Websphere
+    - Message
+    - Broker
+    - Bus
+    - Commercial
+    kubeVersion: '>=1.11.0'
+    name: ibm-ace-dashboard-icp4i-prod
+    tillerVersion: '>=2.10.0'
+    urls:
+    - ibm-ace-dashboard-icp4i-prod-3.0.0.tgz
+    version: 3.0.0
+generated: 2020-03-02T23:00:27.038436032-08:00
